@@ -1,7 +1,7 @@
 # PROJETO CALCULADORA COM CLASSE FEITO EM JAVA
  📌 Desafio feito pela [EDUC360](https://www.linkedin.com/company/educ360°/) e proposto pelo professor: [Denilson Elias](https://www.linkedin.com/in/denilsonbitit/)
-
- O objetivo deste exercício é criar uma calculadora com classe onde a Main será o "FrondEnd" e a classe o "Backend" todas as funções da calculadora está na classe que tem seU nome de Calculadora.
+ 
+O objetivo deste exercício é criar uma calculadora com classe, onde a Main funciona como o "FrontEnd" e a classe como o "BackEnd". Todas as funções da calculadora estão na classe, que tem o nome de Calculadora.
  
  ## 📝👨‍💻 Como foi criado:
 Criei um processo de 2 passos simples em Java que realiza as seguintes operações:
@@ -22,7 +22,7 @@ A classe possui dois tipos de métodos: os privados, responsáveis pelo cálculo
 ### 💻 Saída no console:
 Por fim, no output do console, aparece a seguinte mensagem:
 <div align="center">
-<img src="https://github.com/EzauLira/projeto-calculadora-com-classe/assets/149651629/35035f6b-c152-4225-8154-99380df2e22a" height="250" />
+<img src="https://github.com/EzauLira/projeto-calculadora-com-classe/assets/149651629/35035f6b-c152-4225-8154-99380df2e22a" height="200" />
 </div>
 
 ## 🤝 Agradecimentos:
