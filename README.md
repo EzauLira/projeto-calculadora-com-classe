@@ -11,10 +11,10 @@ Entada de dados do usuário:
 <div align="center">
 <img src="https://github.com/EzauLira/projeto-calculadora-com-classe/assets/149651629/f2e1c982-504e-4169-840f-8fd026f56676" height="450" />
 </div>
-A classe possui um construtor que é chamado quando um novo objeto é criado a partir da classe. Esse construtor recebe quatro parâmetros (name, age, type, skill) e inicializa as propriedades do objeto com esses valores.
 
 ### **🛠️ Segundo Passo:**
-Main recebe a operação feita pelo usuário. A classe identifica a operação feita e exibe o resultado no console.
+O Main recebe a operação realizada pelo usuário. A classe identifica a operação realizada e exibe o resultado no console. 
+A classe possui dois tipos de métodos: os privados, responsáveis pelo cálculo, e os públicos, que recebem os dados do usuário, os encaminham para os métodos privados e retornam com o resultado.
 <div align="center">
 <img src="https://github.com/EzauLira/projeto-calculadora-com-classe/assets/149651629/60014442-0ab5-4d1b-bd36-0967860ba705" height="650" />
 </div>
@@ -22,7 +22,7 @@ Main recebe a operação feita pelo usuário. A classe identifica a operação f
 ### 💻 Saída no console:
 Por fim, no output do console, aparece a seguinte mensagem:
 <div align="center">
-<img src="https://github.com/EzauLira/projeto-calculadora/assets/149651629/61174c05-f279-4a46-a574-d3915a0ac5c6" height="150" />
+<img src="https://github.com/EzauLira/projeto-calculadora-com-classe/assets/149651629/35035f6b-c152-4225-8154-99380df2e22a" height="250" />
 </div>
 
 ## 🤝 Agradecimentos:
